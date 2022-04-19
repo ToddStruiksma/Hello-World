@@ -2,7 +2,7 @@
 
 This is an initial repository for testing Python and git.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/UloxQxtmWL0)
 
 # Development Environment
 
@@ -12,7 +12,6 @@ This is an initial repository for testing Python and git.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Python Installer](https://www.python.org/downloads/)
 * [Python Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
